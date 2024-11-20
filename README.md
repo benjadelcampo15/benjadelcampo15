@@ -16,14 +16,12 @@ Mi objetivo es seguir creciendo como desarrollador, aprender nuevas tecnologías
 
 ### **Frontend:**
 - **Lenguajes**: HTML, CSS, JavaScript (ES6+)
-- **Frameworks y Librerías**: React, Redux, Bootstrap, SASS
-- **Herramientas de Desarrollo**: Webpack, Babel, NPM, GitHub
+- **Frameworks y Librerías**: React , next , html , css
 
 ### **Backend:**
 - **Lenguajes**: JavaScript (Node.js), Python
-- **Frameworks**: Express.js, Django
+- **Frameworks**: Express.js, nest.js
 - **Bases de Datos**: MongoDB, MySQL, PostgreSQL
-- **APIs**: RESTful APIs, GraphQL
 
 ### **Metodologías y Herramientas:**
 - **Metodologías Ágiles**: Scrum, Kanban
@@ -39,19 +37,19 @@ Una aplicacion que se encarga de automatizar tareas para los empleados de la emp
 - **Base de datos**: PostgresSql
 - **Características**: Autenticación, dashboard de admin , filtrado de datos en EXCEL.
 
-### 2. [Plataforma de Comercio Electrónico](enlace-a-tu-repositorio)
-Un sitio de comercio electrónico donde los usuarios pueden comprar y vender productos. La aplicación permite gestionar productos, carritos de compra y procesar pagos.  
-- **Frontend**: React, Redux, Bootstrap
-- **Backend**: Node.js, Express.js
+### 2. [Ecommerce IntiTECH](enlace-a-tu-repositorio)
+Un sitio donde se puede comprar todo tipo de paneles solares.
+- **Frontend**: React, next , tailwind
+- **Backend**: Node.js, nest.js , typeScprit
 - **Base de datos**: PostgreSQL
 - **Características**: Carrito de compras, autenticación de usuarios, integración con pasarelas de pago.
 
-### 3. [Blog Personal](enlace-a-tu-repositorio)
-Un blog donde los usuarios pueden leer y escribir artículos sobre tecnología. He utilizado una arquitectura **MVC** para organizar el código y asegurar la escalabilidad.  
-- **Frontend**: React, CSS
-- **Backend**: Django, Python
+### 3. [IQ argentina](enlace-a-tu-repositorio) (en proceso)
+Un sitio donde se puede comprar todo tipo de velas para windsurf y derivados.
+- **Frontend**: React, next , tailwind
+- **Backend**: node.js, typeScript
 - **Base de datos**: PostgreSQL
-- **Características**: Publicación de artículos, comentarios, administración de contenido.
+- **Características**: Carrito de compras, autenticación de usuarios, integración con pasarelas de pago.
 
 ## 🚀 Habilidades Personales
 
@@ -62,12 +60,9 @@ Un blog donde los usuarios pueden leer y escribir artículos sobre tecnología. 
 
 ## 📫 Conéctate conmigo
 
-- [Mi LinkedIn](enlace-a-tu-linkedin) – Conéctate para conocer más sobre mi carrera profesional.
-- [Mi Portafolio](enlace-a-tu-portafolio) – Mira mis proyectos y aplicaciones en funcionamiento.
-- [Mi Twitter](enlace-a-tu-twitter) – Sígueme para actualizaciones sobre tecnología, programación y más.
-
+- [Mi LinkedIn]((https://www.linkedin.com/in/benjamindelcampo/)) – Conéctate para conocer más sobre mi carrera profesional.
+- 
 Gracias por visitar mi perfil. Si tienes algún proyecto interesante en mente o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme! 😊
 
 ---
 
-**"El código es como el humor. Cuando tienes que explicarlo, es porque no es bueno."** – Cory House
