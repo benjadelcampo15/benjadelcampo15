@@ -4,6 +4,8 @@ Soy **Programador Full Stack** con una pasión por construir soluciones tecnoló
 
 Mi objetivo es seguir creciendo como desarrollador, aprender nuevas tecnologías y aportar mis conocimientos a proyectos innovadores. Siempre estoy abierto a nuevas oportunidades y colaboraciones.
 
+## 📍 Mendoza , Argentina
+
 ## 📚 Formación Académica
 
 - **Tecnicatura Superior en Programación** – *[Universidad]*  
@@ -61,6 +63,7 @@ Un sitio donde se puede comprar todo tipo de velas para windsurf y derivados.
 ## 📫 Conéctate conmigo
 
 - [Mi LinkedIn]((https://www.linkedin.com/in/benjamindelcampo/)) – Conéctate para conocer más sobre mi carrera profesional.
+- [Email](benjadelcampo1@gmail.com)
 - 
 Gracias por visitar mi perfil. Si tienes algún proyecto interesante en mente o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme! 😊
 
